@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$VcCdtnh/yP..684XBydPO.5hZEvbEUlHdL7Gpon0xXABrlrZk91ZS",
+      "id": 1
+    },
+    {
+      "email": "holaquetal@gmail.com",
+      "password": "$2a$10$2n7decvoD7PARcHaRWqjAOuTLW1RAa5oeIss0Yz8pSaR86DX.W21.",
+      "id": 2
+    },
+    {
+      "email": "holaqueasdastal@gmail.com",
+      "password": "$2a$10$aD5J.vso6pXmo3hM3kjGX.QAK1gVU.Qe7LVU0PzJOheYFDcF2j5GO",
+      "id": 3
+    },
+    {
+      "email": "buenastardes@gmail.com",
+      "password": "$2a$10$wByb9Z0QLh1YqIB5U6OWIOwtWvD1ZmXf2jus/ains/mFkfOVc.7E6",
+      "id": 4
+    },
+    {
+      "email": "ttgspaisnmods@gmail.com",
+      "password": "$2a$10$Qx.31x1HKbmHhLriFSwdmezviiWnjZ6JP/YK8PpmE64b3t3EPEzqK",
+      "id": 5
+    },
+    {
+      "email": "buenastarddes@gmail.com",
+      "password": "$2a$10$LZXh14z6w1S/T3PdKJIRe.tJVayOcaKO4V.4Uz1KUrx2mejqUVPwy",
+      "id": 6
+    },
+    {
+      "email": "buenastwasarddes@gmail.com",
+      "password": "$2a$10$SVoACMJDjNXZPiiqyV6tveWW.miYLl/9ZhCRWCh1A1BIm7XbcyV8a",
+      "id": 7
+    }
+  ]
+}
